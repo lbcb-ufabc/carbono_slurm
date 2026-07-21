@@ -1,6 +1,6 @@
 # carbono_slurm
 ## 📌 Descrição
-Ferramenta para submissão e gerenciamento de jobs em clusters com SLURM, adaptado por Yolanda Marcello.
+Ferramenta para submissão e gerenciamento de jobs em clusters com SLURM.
 
 ---
 
@@ -15,4 +15,10 @@ Ferramenta para submissão e gerenciamento de jobs em clusters com SLURM, adapta
 ├── vmod_carbono.slurm     # Jobs vmod
 ├── README-en.md           # README em inglês
 └── README.md
+```
+## ▶️ Como executar
+Clone o repositório:
+```bash
+git clone https://github.com/lbcb-ufabc/carbono_slurm.git
+cd carbono_slurm
 ```
