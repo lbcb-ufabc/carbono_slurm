@@ -3,7 +3,7 @@ Ferramenta para submissão e gerenciamento de jobs em clusters com SLURM.
 
 ---
 
-# 📖 Sobre o projeto
+# 📖 Sobre os arquivos
 * Submissão de jobs.
 * Automatização de scripts.
 
