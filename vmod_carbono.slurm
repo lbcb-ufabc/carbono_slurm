@@ -6,7 +6,7 @@
 #SBATCH --partition=nanotubo
 #
 ## ntasks-per-node = quantidade de processos por node
-#SBATCH --ntasks-per-node=32
+#SBATCH --ntasks-per-node=16
 ##
 ## time = quantidade de tempo
 #SBATCH --time=5-00:00:00
@@ -14,7 +14,7 @@
 ## Nome do job . Aparece na saida do comando 'qstat' .
 ## E recomendado, mas nao necesssario, que o nome do job
 ## seja o mesmo que o nome do arquivo de input
-#SBATCH --job-name=keops_rna
+#SBATCH --job-name=protein_x
 ##
 ## Consulte <https://slurm.schedmd.com/sbatch.html> para mais informacoes sobre
 ## as diretivas acima.
